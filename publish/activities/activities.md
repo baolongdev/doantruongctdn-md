@@ -6,7 +6,7 @@ data:
       title: "HOA PHƯỢNG ĐỎ",
       subtitle: "Chiến dịch Tình nguyện hè",
       bq: "Website có sử dụng một số hình ảnh từ Câu lạc bộ Nhiếp ảnh - Specture và Câu lạc bộ Báo chí - Truyền thông",
-      link: "hoat-dong/hpd",
+      link: "activities/hpd",
       // linkFB: "https://www.facebook.com/759662799498945",
     },
     {
@@ -14,7 +14,7 @@ data:
       title: "Lễ hội âm nhạc",
       subtitle: "",
       bq: "Website có sử dụng một số hình ảnh từ Câu lạc bộ Nhiếp ảnh - Specture và Câu lạc bộ Báo chí - Truyền thông",
-      link: "hoat-dong/lhan",
+      link: "activities/lhan",
       // linkFB: "https://www.facebook.com/541613061448202",
     },
     {
@@ -22,7 +22,7 @@ data:
       title: "Lễ tri ân /và trưởng thành",
       subtitle: "",
       bq: "Website có sử dụng một số hình ảnh từ Dự án khối 12, Câu lạc bộ Nhiếp ảnh - Specture và Câu lạc bộ Báo chí - Truyền thông",
-      link: "hoat-dong/lta&th",
+      link: "activities/lta&th",
       // linkFB: "https://www.facebook.com/576520341290807",
     },
     {
@@ -30,7 +30,7 @@ data:
       title: "NGÀY TRẢI NGHIỆM HOẠT ĐỘNG CÁC CÂU LẠC BỘ - DỰ ÁN",
       subtitle: "",
       bq: "Website có sử dụng một số hình ảnh từ Dự án khối 12, Câu lạc bộ Nhiếp ảnh - Specture và Câu lạc bộ Báo chí - Truyền thông",
-      link: "hoat-dong/ntnhdcclb&da",
+      link: "activities/ntnhdcclb&da",
       // linkFB: "https://www.facebook.com/576520341290807",
     },
   ]

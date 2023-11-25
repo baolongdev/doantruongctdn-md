@@ -4,7 +4,7 @@ data:
     {
       title: "GIỚI THIỆU",
       subtitle: "Ban Chấp hành Đoàn trường THPT chuyên Trần Đại Nghĩa là một tập thể bao gồm các cán bộ Đoàn trẻ, năng động, sáng tạo và nhiệt huyết cùng nhau chung tay xây dựng môi trường hoạt động Đoàn lành mạnh, chăm lo quyền lợi chính đáng cho các Đoàn viên, thanh niên Trường THPT chuyên Trần Đại Nghĩa.",
-      url: "/doantruong/bch2023",
+      url: "/doantruong/bch/2023",
       image: "DoanTruong.png",
       bgColor: "#e2dacf",
       Color: "#00adad",
