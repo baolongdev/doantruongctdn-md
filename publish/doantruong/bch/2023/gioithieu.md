@@ -7,7 +7,7 @@ data: [
         class: " 11CV",
         job: " BÍ THƯ",
         color: "#da241f",
-        image: "bch/bch2023/1.jpg",
+        image: "bch/2023/1.jpg",
         type: "leader",
     },
     {
@@ -15,7 +15,7 @@ data: [
         class: " 11TH1",
         job: " PHÓ BÍ THƯ",
         color: "#08613c",
-        image: "bch/bch2023/2.jpg",
+        image: "bch/2023/2.jpg",
         type: "leader",
     },
     {
@@ -23,7 +23,7 @@ data: [
         class: " 11CH",
         job: " ỦY VIÊN BTV",
         color: "#4672c3",
-        image: "bch/bch2023/3.jpg",
+        image: "bch/2023/3.jpg",
         type: "subleader",
     },
     {
@@ -31,7 +31,7 @@ data: [
         class: " 10TH1",
         job: " ỦY VIÊN BTV",
         color: "#4672c3",
-        image: "bch/bch2023/4.jpg",
+        image: "bch/2023/4.jpg",
         type: "subleader",
     },
     {
@@ -39,7 +39,7 @@ data: [
         class: " 11CS",
         job: " ỦY VIÊN BTV",
         color: "#4672c3",
-        image: "bch/bch2023/5.jpg",
+        image: "bch/2023/5.jpg",
         type: "subleader",
     },
     {
@@ -47,7 +47,7 @@ data: [
         class: " 11TH1",
         job: " ỦY VIÊN BCH",
         color: "#4672c3",
-        image: "bch/bch2023/6.jpg",
+        image: "bch/2023/6.jpg",
         type: "membermember",
     },
     {
@@ -55,7 +55,7 @@ data: [
         class: " 11A1",
         job: " ỦY VIÊN BCH",
         color: "#4672c3",
-        image: "bch/bch2023/7.jpg",
+        image: "bch/2023/7.jpg",
         type: "membermember",
     },
     {
@@ -63,7 +63,7 @@ data: [
         class: " 10CS",
         job: " ỦY VIÊN BCH",
         color: "#4672c3",
-        image: "bch/bch2023/8.jpg",
+        image: "bch/2023/8.jpg",
         type: "member",
     },
     {
@@ -71,7 +71,7 @@ data: [
         class: " 12CA2",
         job: " ỦY VIÊN BCH",
         color: "#4672c3",
-        image: "bch/bch2023/9.jpg",
+        image: "bch/2023/9.jpg",
         type: "member",
     },
     {
@@ -79,7 +79,7 @@ data: [
         class: " 10CA2",
         job: " ỦY VIÊN BCH",
         color: "#4672c3",
-        image: "bch/bch2023/10.jpg",
+        image: "bch/2023/10.jpg",
         type: "member",
     },
     {
@@ -87,7 +87,7 @@ data: [
         class: " 11CH",
         job: " ỦY VIÊN BCH",
         color: "#4672c3",
-        image: "bch/bch2023/11.jpg",
+        image: "bch/2023/11.jpg",
         type: "member",
     },
     {
@@ -95,7 +95,7 @@ data: [
         class: " 10TH3",
         job: " ỦY VIÊN BCH",
         color: "#4672c3",
-        image: "bch/bch2023/12.jpg",
+        image: "bch/2023/12.jpg",
         type: "member",
     },
     {
@@ -103,7 +103,7 @@ data: [
         class: " 10CA1",
         job: " ỦY VIÊN BCH",
         color: "#4672c3",
-        image: "bch/bch2023/13.jpg",
+        image: "bch/2023/13.jpg",
         type: "member",
     },
     {
@@ -111,7 +111,7 @@ data: [
         class: " 10A1",
         job: " CỘNG TÁC VIÊN",
         color: "#4672c3",
-        image: "bch/bch2023/14.jpg",
+        image: "bch/2023/14.jpg",
         type: "member",
     },
     {
@@ -119,7 +119,7 @@ data: [
         class: " 10CL",
         job: " CỘNG TÁC VIÊN",
         color: "#4672c3",
-        image: "bch/bch2023/15.jpg",
+        image: "bch/2023/15.jpg",
         type: "member",
     },
     {
@@ -127,7 +127,7 @@ data: [
         class: " 10CV",
         job: " CỘNG TÁC VIÊN",
         color: "#4672c3",
-        image: "bch/bch2023/16.jpg",
+        image: "bch/2023/16.jpg",
         type: "member",
     },
     {
@@ -135,7 +135,7 @@ data: [
         class: " 10CS",
         job: " CỘNG TÁC VIÊN",
         color: "#4672c3",
-        image: "bch/bch2023/17.jpg",
+        image: "bch/2023/17.jpg",
         type: "member",
     },
 ]

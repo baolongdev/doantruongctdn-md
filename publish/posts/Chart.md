@@ -1,4 +1,7 @@
+---
+banner: "../assets/demo.png"
 
+---
 ```chart
 type: bar
 labels: []
